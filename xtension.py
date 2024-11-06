@@ -36,3 +36,38 @@ You have:
  3 wood
  >
 """
+
+
+def Yurii():
+    print("\n" + "=" * 40)
+    print("|                                      |")
+    print("|         Welcome to the Item          |")
+    print("|              Interface               |")
+    print("|        ----------------------        |")
+    print("|            Select funtcion           |")
+    print("|                                      |")
+    print("|        (S)'Stats' (I)'Inventory'     |")
+    print("|                                      |")
+    print("|        (C)'Cmds'  (E)'Extra'         |")
+    print("|                                      |")
+    print("=" * 40)
+
+
+
+def Tyler():
+    print("\n" + "=" * 40)
+    print("|                                      |")
+    print("|     Commands                         |")
+    print("|                                      |")
+    print("|                                      |")
+    print("|                                      |")
+    print("|                                      |")
+    print("|                                      |")
+    print("|                                      |")
+    print("|                                      |")
+    print("|                                      |")
+    print("|                                      |")
+    print("|                                      |")
+    print("|                                      |")
+    print("=" * 40)
+    
